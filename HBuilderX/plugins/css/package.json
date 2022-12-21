@@ -1,0 +1,43 @@
+{
+    "name": "css",
+    "version": "0.1.0.2020060419",
+    "__private": true,
+    "contributes": {
+        "snippets": [{
+                "language": "css",
+                "path": "./snippets/css.json"
+            },
+            {
+                "language": "nss",
+                "path": "./snippets/nss.json"
+            },
+            {
+                "project": "uni-app",
+                "language": "css",
+                "path": "./snippets/condition_comment.json"
+            },
+            {
+                "project": "uni-app",
+                "language": "less",
+                "path": "./snippets/condition_comment.json"
+            },
+            {
+                "project": "uni-app",
+                "language": "scss",
+                "path": "./snippets/condition_comment.json"
+            },
+            {
+                "project": "uni-app",
+                "language": "stylus",
+                "path": "./snippets/condition_comment.json"
+            },
+            {
+                "language": "stylus",
+                "path": "./snippets/stylus.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@types/node": "^6.0.51"
+    }
+}

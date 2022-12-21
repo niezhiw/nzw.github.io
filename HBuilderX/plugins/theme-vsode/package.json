@@ -1,0 +1,19 @@
+{
+	"name": "theme-defaults",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"categories": [ "Themes" ],
+	"version": "1.0.0.2020060419",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+    "__private":true,
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vs-minimal",
+				"label": "Minimal",
+				"path": "./fileicons/vs_minimal-icon-theme.json"
+			}
+		]
+	}
+}

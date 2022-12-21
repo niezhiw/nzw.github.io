@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_server",
+  "version": "1.0.0.2020060419",
+  "description": "",
+  "main": "RMIPlugins.js",
+  "__private":true,
+  "dependencies": {
+    "node-int64": "^0.4.0",
+    "q": "^1.5.0",
+    "ws": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

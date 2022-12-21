@@ -1,0 +1,26 @@
+{
+	"name": "theme-defaults",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"categories": [ "Themes" ],
+	"version": "1.0.0.2020081815",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+    "__private":true,
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai",
+				"uiTheme": "black",
+				"path": "./themes/dark_defaults.json",
+				"iconFolder":"./themes/black"
+			},
+			{
+				"label": "Default",
+				"uiTheme": "default",
+				"path": "./themes/light_defaults.json",
+				"iconFolder":"./themes/default"
+			}
+		]
+	}
+}

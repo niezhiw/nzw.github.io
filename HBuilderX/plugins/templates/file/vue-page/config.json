@@ -1,0 +1,125 @@
+{
+    "name": "vue页面模板",
+    "description": "vue页面模板",
+    "sortgroup": ["base", "custom", ""],
+    "templates": [{
+            "file": "默认模板.vue",
+            "group": "base"
+        },
+        {
+            "file": "使用less的页面.vue",
+            "group": "base"
+        },
+        {
+            "file": "使用scss的页面.vue",
+            "group": "base"
+        },
+        {
+            "file": "使用stylus的页面.vue",
+            "group": "base"
+        },
+        {
+            "file": "使用typescript的页面.vue",
+            "group": "base"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2588",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (无略缩图)",
+            "description": "垂直排列，无略缩图，主标题+副标题显示",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2588",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/0ba30690-e354-11ea-9e60-298807c7337d_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2587",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (左文右图)",
+            "description": "基于 uni-list 的云端一体新闻列表模板(左文右图)",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2587",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/86a2da50-e353-11ea-893c-3be5af1d1197_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2586",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (左图右文)",
+            "description": "水平排列，左图右文",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2586",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/23535cc0-e353-11ea-b429-91ac0db5a63b_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2585",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (多图显示)",
+            "description": "垂直排列，略缩图显示多图",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2585",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/8830ba00-e352-11ea-80c3-eda2d9f9dbf7_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2584",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (图文混排)",
+            "description": "垂直排列，图文混排",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2584",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/a4542a60-e351-11ea-9424-d7d30561df66_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2583",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (大图模式)",
+            "description": "垂直排列，略缩图显示大图",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2583",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/c3bd7be0-e350-11ea-bb66-83c9aef46e19_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2546",
+            "author": "DCloud",
+            "name": "云端一体新闻列表 (混合布局)",
+            "description": "基于 uni-list 的云端一体新闻列表模板，仿今日头条混合布局",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2546",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/9c8eba70-e075-11ea-b982-f138accd47bd_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2717",
+            "author": "DCloud",
+            "name": "云端一体新闻详情",
+            "description": "云端一体新闻详情模板",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2717",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/b86230f0-f17e-11ea-a9ff-c51504b44f96_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2651",
+            "author": "DCloud",
+            "name": "云端一体商品列表",
+            "description": "基于 uni-list 的云端一体化商品列表模板",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2651",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/5f5372e0-e9a1-11ea-8ffb-a91ad2d78303_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2672",
+            "author": "DCloud",
+            "name": "云端一体商品列表 (列表模式)",
+            "description": "基于 uni-list 的云端一体商品列表模板（列表模式）",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2672",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/31e4a700-ec03-11ea-8b41-0141d50d089e_0.jpg"
+        },
+        {
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2671",
+            "author": "DCloud",
+            "name": "云端一体商品列表 (宫格模式)",
+            "description": "基于 uni-list 的云端一体商品列表模板（宫格模式）",
+            "support": ["tcb", "aliyun"],
+            "url": "https://ext.dcloud.net.cn/plugin?id=2671",
+            "preview": "https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/28e6e6b0-ec00-11ea-bc8d-5319a48e9ad5_0.jpg"
+        }
+    ]
+}

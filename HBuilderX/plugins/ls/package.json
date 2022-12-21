@@ -1,0 +1,17 @@
+{
+    "name": "ls",
+    "version": "1.1.0.2020072416",
+    "__private":true,
+    "__from": "HBuilderX",
+    "extensionDependencies": ["node"],
+    "license": "Copyright© DCloud Co.,Ltd",
+    "description": "hbuilderx plugin ls",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "hbuilderx",
+        "ls"
+    ],
+    "author": "hbuilderx"
+}

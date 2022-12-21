@@ -1,0 +1,17 @@
+{
+    "name": "builtincef3terminal",
+    "version": "1.0.4.2020061011",
+    "displayName":"内置终端",
+    "description": "内置的命令行终端，可在菜单视图中呼出",
+    "__category":"C++插件",
+    "__from": "HBuilderX",
+    "extensionDependencies": ["cef3"],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "hbuilderx",
+        "builtincef3terminal"
+    ],
+    "author": "hbuilderx"
+}

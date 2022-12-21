@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "webpack": "webpack"
+    },
+    "dependencies": {
+        "node-pty": "^0.7.4",
+        "ws": "^5.2.1",
+        "xterm": "^3.13.1"
+    }
+}

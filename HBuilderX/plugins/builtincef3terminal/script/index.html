@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="node_modules/xterm/dist/xterm.css" />
+    <link rel="stylesheet" href="node_modules/xterm/dist/addons/fullscreen/fullscreen.css" />
+	<!--<link rel="stylesheet" href="scrollbar.css" />-->
+    <style type="text/css">
+		
+	</style>
+	<script type="text/javascript">
+		function __changestyle__(theme){
+				var __styles = document.getElementsByTagName('style');
+				for(var i =0;i<__styles.length;i++){
+					__styles[i].parentNode.removeChild(__styles[i]);
+				}
+				var __new_style = document.createElement("style");
+				__new_style.setAttribute("type","text/css");
+				if(theme=='default'){
+					__new_style.innerHTML='body,html{margin:0;padding:0;height:100%;width:100%}#terminal{height:100%;width:100%;padding:0}::-webkit-scrollbar{width:8px;height:8px;background-color:#FFFCF3}::-webkit-scrollbar-track{background-color:#FFFCF3}::-webkit-scrollbar-thumb{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);background-color:#CFB56A}';
+				}else{
+					__new_style.innerHTML='body,html{margin:0;padding:0;height:100%;width:100%}#terminal{height:100%;width:100%;padding:0}::-webkit-scrollbar{width:8px;height:8px;background-color:#666}::-webkit-scrollbar-track{background-color:#666}::-webkit-scrollbar-thumb{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);background-color:#999}';
+				}
+				document.getElementsByTagName("head")[0].appendChild(__new_style);
+			}
+		function __changestyle_new__(scrollBg, scrollHandle){
+			var __styles = document.getElementsByTagName('style');
+			for(var i =0;i<__styles.length;i++){
+				__styles[i].parentNode.removeChild(__styles[i]);
+			}
+			var __new_style = document.createElement("style");
+			__new_style.setAttribute("type","text/css");
+				__new_style.innerHTML='body,html{margin:0;padding:0;height:100%;width:100%}#terminal{height:100%;width:100%;padding:0}::-webkit-scrollbar{width:8px;height:8px;background-color:' + scrollBg +' }::-webkit-scrollbar-track{background-color:' + scrollBg + '}::-webkit-scrollbar-thumb{background-color:'+ scrollHandle + '}';
+			document.getElementsByTagName("head")[0].appendChild(__new_style);
+		}
+	</script>
+</head>
+<body>
+    <div id="terminal"></div>
+    <script src="dist/bundle.js"></script>
+</body>
+
+</html>

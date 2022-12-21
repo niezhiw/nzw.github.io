@@ -1,0 +1,245 @@
+{
+    "uniapp_vue": [
+        {
+            "id": "default",
+            "name": "\u9ed8\u8ba4\u6a21\u677f",
+            "description": "\u9ed8\u8ba4\u6a21\u677f",
+            "file": "default.zip"
+        },
+        {
+            "id": "uni-ui",
+            "name": "uni-ui\u9879\u76ee",
+            "description": "\u5185\u7f6euni-ui\u7684\u9879\u76ee\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/uni-ui.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-uni-ui",
+            "npmVersion": "0.0.1-2020072412"
+        },
+        {
+            "id": "hello-uniapp",
+            "name": "Hello uni-app",
+            "description": "\u6f14\u793auni-app\u6846\u67b6\u7684\u7ec4\u4ef6\u3001\u63a5\u53e3\u3001\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/hello-uniapp.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-hello-uniapp",
+            "npmVersion": "0.0.1-2020090411"
+        },
+        {
+            "id": "hello-unicloud",
+            "name": "Hello uniCloud",
+            "description": "\u6f14\u793auniCloud\u5bf9\u6570\u636e\u5e93\u7684\u57fa\u672c\u64cd\u4f5c",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/hello-unicloud.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-hello-unicloud",
+            "npmVersion": "0.0.1-2020081120"
+        },
+        {
+            "id": "login",
+            "name": "\u767b\u5f55\u6a21\u677f",
+            "description": "\u57fa\u4e8euni-id\u7684\u4e91\u7aef\u4e00\u4f53\u767b\u5f55\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/login.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-login",
+            "npmVersion": "0.0.1-2020081120"
+        },
+        {
+            "id": "picture",
+            "name": "\u770b\u56feApp\u6a21\u677f",
+            "description": "\u4f7f\u7528uni-app\u5f00\u53d1\u7684\u56fe\u7247App\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/picture.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-picture",
+            "npmVersion": "0.0.1-2020010311"
+        },
+        {
+            "id": "news",
+            "name": "\u65b0\u95fb/\u8d44\u8baf\u6a21\u677f",
+            "description": "\u65b0\u95fb/\u8d44\u8baf\u6a21\u677f\uff0c\u4f7f\u7528nvue\uff0c\u9002\u914dPC\u5bbd\u5c4f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/news.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-news",
+            "npmVersion": "0.0.1-2019121216"
+        },
+        {
+            "id": "tab-plus",
+            "name": "\u5e95\u90e8\u9009\u9879\u5361\u6a21\u677f",
+            "description": "\u4e2d\u95f4\u5e26+\u53f7\u7684\u5e95\u90e8\u9009\u9879\u5361",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/uniapp_vue/tab-plus.zip",
+            "npmName": "hbuilderx-project-template-uniapp_vue-tab-plus",
+            "npmVersion": "0.0.1-2020010311"
+        },
+        {
+            "id": "tencent-dzq",
+            "name": "Discuz! Q",
+            "description": "Discuz! Q\u793e\u533a\u6a21\u7248\uff08\u4f5c\u8005\uff1a\u817e\u8baf\u4e91\uff09\uff0c\u6765\u81ea<a href='https://ext.dcloud.net.cn/plugin?id=2336'>\u63d2\u4ef6\u5e02\u573a</a>",
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=2336",
+            "nocache": true
+        },
+        {
+            "id": "uViewUI",
+            "name": "uView UI",
+            "description": "uView UI\u6a21\u7248\uff08\u4f5c\u8005\uff1auViewUI\uff09\uff0c\u6765\u81ea<a href='https://ext.dcloud.net.cn/plugin?id=1593'>\u63d2\u4ef6\u5e02\u573a</a>",
+            "file": "https://resource-aliyun.dcloud.net.cn/marketplace/5ab8e230-77fe-11ea-b35c-1dbe44a1237e/plugin_example_ide.zip",
+            "nocache": true
+        },
+        {
+            "id": "colorui",
+            "name": "ColorUI",
+            "description": "\u9ad8\u989c\u503cUI\u5e93\uff08\u4f5c\u8005\uff1a\u6587\u6653\u6e2f\uff09\uff0c\u6765\u81ea<a href='https://ext.dcloud.net.cn/plugin?id=239'>\u63d2\u4ef6\u5e02\u573a</a>",
+            "file": "https://ext.dcloud.net.cn/hbuilder/download?pluginId=239",
+            "nocache": true
+        }
+    ],
+    "quickapp": [
+        {
+            "id": "default",
+            "name": "\u9ed8\u8ba4\u6a21\u677f",
+            "description": "\u9ed8\u8ba4\u6a21\u677f",
+            "file": "default.zip"
+        },
+        {
+            "id": "hello-quickapp",
+            "name": "Hello QuickApp",
+            "description": "\u5feb\u5e94\u7528\u793a\u4f8b\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/quickapp/hello-quickapp.zip",
+            "npmName": "hbuilderx-project-template-quickapp-hello-quickapp",
+            "npmVersion": "0.0.1-2019102117"
+        }
+    ],
+    "extension": [
+        {
+            "id": "HBuilderX-Extension",
+            "name": "\u63d2\u4ef6\u6269\u5c55\u5f00\u53d1",
+            "description": "\u5f00\u53d1HBuilderX\u63d2\u4ef6\u7684\u7b80\u5355\u793a\u4f8b",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/extension/HelloForHBuilderXExtension.zip",
+            "validate-regex": "^[a-zA-Z][a-zA-Z0-9_-]*[a-zA-Z0-9]$",
+            "validate-error-msg": "\u63d2\u4ef6\u540d\u79f0\u4e0d\u5408\u6cd5\uff0c\u4ec5\u652f\u6301\u82f1\u6587\u5b57\u6bcd\u548c\u6570\u5b57",
+            "npmName": "hbuilderx-project-template-extension-hbuilderx-extension",
+            "npmVersion": "0.0.1-2020072412"
+        },
+        {
+            "id": "QuickPick",
+            "name": "QuickPick",
+            "description": "\u6f14\u793a\u63d2\u4ef6API showQuickPick",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/extension/QuickPick.zip",
+            "validate-regex": "^[a-zA-Z][a-zA-Z0-9_-]*[a-zA-Z0-9]$",
+            "validate-error-msg": "\u63d2\u4ef6\u540d\u79f0\u4e0d\u5408\u6cd5\uff0c\u4ec5\u652f\u6301\u82f1\u6587\u5b57\u6bcd\u548c\u6570\u5b57",
+            "npmName": "hbuilderx-project-template-extension-quickpick",
+            "npmVersion": "0.0.1-2020072412"
+        },
+        {
+            "id": "snippet",
+            "name": "snippet",
+            "description": "\u4ee3\u7801\u5757\u63d2\u4ef6",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/extension/snippet.zip",
+            "validate-regex": "^[a-zA-Z][a-zA-Z0-9_-]*[a-zA-Z0-9]$",
+            "validate-error-msg": "\u63d2\u4ef6\u540d\u79f0\u4e0d\u5408\u6cd5\uff0c\u4ec5\u652f\u6301\u82f1\u6587\u5b57\u6bcd\u548c\u6570\u5b57",
+            "npmName": "hbuilderx-project-template-extension-snippet",
+            "npmVersion": "0.0.1-2020072412"
+        }
+    ],
+    "web": [
+        {
+            "id": "default",
+            "name": "\u7a7a\u9879\u76ee",
+            "description": "\u4ec5\u5305\u542b\u4e00\u4e2a\u5de5\u7a0b\u76ee\u5f55",
+            "file": "default.zip"
+        },
+        {
+            "id": "simple",
+            "name": "\u57fa\u672cHTML\u9879\u76ee",
+            "description": "\u5305\u542bindex.html\u548ccss\u3001js\u3001img\u76ee\u5f55",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/web/simple.zip"
+        },
+        {
+            "id": "html_vue",
+            "name": "vue\u9879\u76ee(\u666e\u901a\u6a21\u5f0f)",
+            "description": "\u5728html\u4e2d\u5f15\u7528vue.js",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/web/html_vue.zip"
+        },
+        {
+            "id": "hello-vue",
+            "name": "vue\u9879\u76ee(2.6.10)",
+            "description": "vue-cli\u9ed8\u8ba4\u9879\u76ee\uff08\u4ec5\u5305\u542bbabel\uff09",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/web/vue_cli_default.zip",
+            "npmName": "hbuilderx-project-template-web-hello-vue",
+            "npmVersion": "0.0.1-2019102117"
+        },
+        {
+            "id": "element-starter",
+            "name": "element-starter",
+            "description": "element-ui\u7684\u9879\u76ee\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/web/element_starter.zip",
+            "npmName": "hbuilderx-project-template-web-element-starter",
+            "npmVersion": "0.0.1-2019121112"
+        }
+    ],
+    "app": [
+        {
+            "id": "default",
+            "name": "\u9ed8\u8ba4\u6a21\u677f",
+            "description": "\u9ed8\u8ba4\u6a21\u677f",
+            "file": "default.zip"
+        },
+        {
+            "id": "mui",
+            "name": "mui\u9879\u76ee",
+            "description": "\u5df2\u5305\u542bmui\u7684js\u3001css\u3001\u5b57\u4f53\u8d44\u6e90\u7684\u9879\u76ee\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/app/mui.zip",
+            "npmName": "hbuilderx-project-template-app-mui",
+            "npmVersion": "0.0.1-2019120219"
+        },
+        {
+            "id": "mui-login-setting",
+            "name": "mui\u767b\u5f55\u6a21\u677f",
+            "description": "\u5e26\u767b\u5f55\u548c\u8bbe\u7f6e\u7684MUI\u9879\u76ee\u6a21\u677f",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/app/mui-login-setting.zip",
+            "npmName": "hbuilderx-project-template-app-mui-login-setting",
+            "npmVersion": "0.0.1-2019120219"
+        },
+        {
+            "id": "nativeTab",
+            "name": "\u5e95\u90e8\u9009\u9879\u5361\u6a21\u677f",
+            "description": "\u539f\u751f\u9009\u9879\u5361\u793a\u4f8b\uff0c\u542btab\u4e2d\u90e8\u51f8\u8d77\u534a\u5706\u793a\u4f8b",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/app/nativeTab.zip",
+            "npmName": "hbuilderx-project-template-app-nativetab",
+            "npmVersion": "0.0.1-2019120219"
+        },
+        {
+            "id": "helloh5plus",
+            "name": "Hello H5+",
+            "description": "HTML5Plus\u89c4\u8303\u7684\u6f14\u793a\uff0c\u5305\u542b\u6444\u50cf\u5934\u7b49\u5404\u79cd\u5e95\u5c42\u80fd\u529b\u7684\u8c03\u7528",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/app/helloh5plus.zip",
+            "npmName": "hbuilderx-project-template-app-helloh5plus",
+            "npmVersion": "0.0.1-2020031913"
+        },
+        {
+            "id": "hellomui",
+            "name": "Hello mui",
+            "description": "mui\u524d\u7aef\u6846\u67b6\u5404\u79cdUI\u63a7\u4ef6\uff08\u5982\u6309\u94ae\uff09\u7684\u5c55\u793a",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/app/hellomui.zip",
+            "npmName": "hbuilderx-project-template-app-hellomui",
+            "npmVersion": "0.0.1-2020072416"
+        }
+    ],
+    "wap2app": [
+        {
+            "id": "default",
+            "name": "\u9ed8\u8ba4\u6a21\u677f",
+            "description": "\u9ed8\u8ba4\u6a21\u677f",
+            "file": "default.zip"
+        },
+        {
+            "id": "__W2A__hello.wap2app.dcloud.io",
+            "name": "Hello wap2app",
+            "description": "Wap2App\u57fa\u672c\u529f\u80fd\u6f14\u793a",
+            "file": "https://update.dcloud.net.cn/hbuilderx/alpha/project-template/project-template.1.0.1.2020092722/project/wap2app/hellowap2app.zip",
+            "npmName": "hbuilderx-project-template-wap2app-hellowap2app",
+            "npmVersion": "0.0.1-2019102117"
+        }
+    ],
+    "miniapp": [
+        {
+            "id": "default",
+            "name": "\u9ed8\u8ba4\u6a21\u677f",
+            "description": "\u9ed8\u8ba4\u6a21\u677f",
+            "file": "default.zip"
+        }
+    ],
+    "version": "1.0.1.2020092722",
+    "source": "https://update.dcloud.net.cn/hbuilderx/template/project/config.json"
+}

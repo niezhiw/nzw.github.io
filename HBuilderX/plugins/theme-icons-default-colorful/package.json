@@ -1,0 +1,19 @@
+{
+	"name": "hx-explorer-icons-colorful",
+	"id":"hx-explorer-icons-colorful",
+	"private": true,
+	"version": "1.0.0.2020090216",
+	"displayName": "HbuilderX File Icon Theme",
+	"description": "资源管理器图标",
+	"publisher": "hbuilderx",
+    "__private":true,
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "hx-file-icons-colorful",
+				"label": "HBuilderX图标(彩色)",
+				"path": "./icons/hx-build-in-icon-theme.json"
+			}
+		]
+	}
+}

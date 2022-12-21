@@ -1,0 +1,13 @@
+{
+    "name": "cef3",
+    "version": "1.0.1.2020061018",
+    "license": "Copyright© DCloud Co.,Ltd",
+    "description": "hbuilderx cef3",
+    "__private":true,
+    "__from": "HBuilderX",
+    "keywords": [
+        "hbuilderx",
+        "cef3"
+    ],
+    "author": "hbuilderx"
+}

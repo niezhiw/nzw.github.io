@@ -1,0 +1,44 @@
+{
+  "name": "javascript",
+  "version": "0.1.0.2020082516",
+  "__private":true,
+  "dependencies": {},
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/undisplay.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
+      },
+      {
+      	"project":"Web,App,Wap2App",
+        "language": "javascript",
+        "path": "./snippets/mui.json"
+      },
+      {
+      	"project":"uni-app",
+        "language": "javascript",
+        "path": "./snippets/uni_vue_js.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/javascriptreact.json"
+      },{
+        "language": "javascript",
+        "path": "./snippets/vue-script.json"
+      },{
+      	"project":"uni-app",
+        "language": "javascript",
+        "path": "./snippets/condition_comment.json"
+      },{
+      	"project":"uni-app",
+        "language": "typescript",
+        "path": "./snippets/condition_comment.json"
+      }
+    ]
+  },
+  "devDependencies": {}
+}
